@@ -10,7 +10,7 @@
 🌱 I’m currently exploring **Full Stack Development** and **Cloud Technologies**  
 🎓 Final Year B.Tech in **Artificial Intelligence and Data Science**  
 💡 Passionate about AI, Automation, and building real-world applications  
-📫 Reach me: [matamsathwik@gmail.com](mailto:matamsathwik@gmail.com)
+📫 Reach me: [matamsathwik27@gmail.com](mailto:matamsathwik27@gmail.com)
 
 ---
 
@@ -55,9 +55,9 @@
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matamsathwik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sathwik-matam/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/matamsathwik)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:matamsathwik@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:matamsathwik27@gmail.com)
 
 ---
 
